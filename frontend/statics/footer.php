@@ -79,10 +79,11 @@
       
                <div class="col-lg-4 my-3 my-lg-0">
                 <p> Términos y Condiciones - Política Tratamiento de Datos</p>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
+                        <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/i/flow/login?redirect_after_login=%2Fizy_academy" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/izyacademy" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/izy_academy/" aria-label="Instagram"><i class="fab fa-instagram"></i></a> 
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/company/izy-academy/" aria-label="Linkedin"><i class="fab fa-linkedin"></i></a>
+                      </div>
               </div>
             </div>
       </footer>

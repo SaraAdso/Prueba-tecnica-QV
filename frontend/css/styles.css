@@ -453,14 +453,7 @@ legend + * {
   -webkit-appearance: textfield;
 }
 
-/* rtl:raw:
-[type="tel"],
-[type="url"],
-[type="email"],
-[type="number"] {
-  direction: ltr;
-}
-*/
+
 ::-webkit-search-decoration {
   -webkit-appearance: none;
 }
@@ -10959,6 +10952,33 @@ p {
     margin-right: 0;
   }
 }
+
+div.parallax {
+
+  position: relative;
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  background-image: url("../assets/img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+
+
+}
+
+div.parallax::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(29, 58, 108, 0.5); 
+  
+}
+
 header.masthead {
   position: relative;
   padding-top: 10.5rem;
@@ -10978,7 +10998,8 @@ header.masthead::before {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(29, 58, 108, 0.5); /* Ajusta este valor para cambiar la opacidad */
+  background: rgba(29, 58, 108, 0.5); 
+  
 }
 
 
@@ -11484,6 +11505,10 @@ button:hover {
   background-color: #00aced;
 }
 
+.social-icons a.instagram:hover {
+  background-color: #007bb6;
+}
+
 .social-icons a.linkedin:hover {
   background-color: #007bb6;
 }
@@ -11499,3 +11524,4 @@ button:hover {
     font-weight: 600;
   }
 }
+
