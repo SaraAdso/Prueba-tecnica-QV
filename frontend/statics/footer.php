@@ -70,7 +70,7 @@
             <div class="container">
               <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
-                    <a class="navbar-brand" href="#page-top"><img src="./frontend/assets/img/logo.png" alt="..." /></a>
+                    <a class="navbar-brand" href="https://izyacademy.com/"><img src="./frontend/assets/img/logo.png" alt="..." /></a>
                   <p class="copyright-text">Copyright &copy; 2023 izyAcademy Marca Registrada By Qvision Technologies.
                
                   </p>

@@ -19,7 +19,7 @@
             <li>
               <hr class="dropdown-divider">
             </li>
-            <li><a class="dropdown-item" href="./frontend/pages/net.php">Ruta de Formación En .NET</a></li>
+            <li><a class="dropdown-item" href="./net.php">Ruta de Formación En .NET</a></li>
             <li>
               <hr class="dropdown-divider">
             </li>
